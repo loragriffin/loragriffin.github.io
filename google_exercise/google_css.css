@@ -24,7 +24,7 @@ ul {
 ul li {
   float: left;
   width: auto;
-  height: 30px;
+  height: 25px;
   background-color: rgb(242, 242, 242);
   text-align: center;
   padding: 10px 10px 0 10px;
@@ -32,4 +32,5 @@ ul li {
   color: rgb(117, 117, 117);
   font-weight: bold;
   font-family: arial, sans-serif;
+  font-size: 12px;
 }
